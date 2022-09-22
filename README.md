@@ -24,7 +24,7 @@
 
 snake -->
 
-![snake gif](https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 
