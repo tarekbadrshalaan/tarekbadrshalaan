@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on finding new job
 - 🌱 I’m currently reviewing software basics 
-- 👯 I’m looking to collaborate on IPFS
-- 🤔 I’m looking for help with modelgen
-- 💬 Ask me about golang 
+- 👯 I’m looking to collaborate on [ipfs/kubo](https://github.com/ipfs/kubo)
+- 🤔 I’m looking for help with [modelgen](https://github.com/tarekbadrshalaan/modelgen) 
+- 💬 Ask me about [golang](https://go.dev/)
 - 📫 How to reach me: [twitter/tarekbadrsh](https://twitter.com/tarekbadrsh)
-- ⚡ Fun fact: I like to dance bachata 
+- ⚡ Fun fact: I like to [dance bachata](https://www.youtube.com/watch?v=iQw5I85dkO8) 🕺💃
 
 <!-- contribution  
 <p align="center">
@@ -24,10 +24,6 @@
 
 snake -->
 
-<br>
-<!-- My quote -->
-<p  align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=If+you're+gonna+do+something+wrong;...+do+it+right!"/>
 
 </p>
 
@@ -42,7 +38,7 @@ snake -->
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "My main version control system")
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
 
-### How am I doing things
+### How I'm doing things
 ```go 
 func doSomething(whatToDo string, rightORwrong bool) {
 	if rightORwrong {
@@ -53,25 +49,21 @@ func doSomething(whatToDo string, rightORwrong bool) {
 }
 ```
 
+<!-- My quote -->
+<p  align="center">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=If+you're+gonna+do+something+wrong;...+do+it+right!"/>
+
+<br>
+
 <p align="center">Visitors counter ↖ <br>
   <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/tarekbadrshalaan/count.svg"/>
 </p>
 
-[![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
-[![Total time of coding](https://wakatime.com/badge/user/0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20.svg "Total time of coding")](https://wakatime.com/@0671d7a1-0f1f-4dae-9501-2d7aa4f6fc20)
-
-### 💻 Workspace Specs
-![General](https://img.shields.io/badge/Arch-Lenovo_legion_y540-0078D6?style=for-the-badge&logo=Arch-linux&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB-121006?style=for-the-badge&logo=RAM&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1660_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</details>
 
 <!-- Social media links -->
 ### Connect with me:
-[![Twitter handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/twitter.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
-[![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
-[![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
+[![Twitter handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/twitter.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
+[![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
+[![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
 
 
