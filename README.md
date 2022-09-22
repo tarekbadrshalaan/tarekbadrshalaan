@@ -18,8 +18,11 @@
 - ⚡ Fun fact: I like to [dance bachata](https://www.youtube.com/watch?v=iQw5I85dkO8) 🕺💃
 
 <!-- contribution  snake --> 
-<p align="center">
+<!-- <p align="center">
     <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif" />
+</p> -->
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/output/github-snake-dark.svg%3Fpalette%3Dgithub-dark" />
 </p>
 
 
