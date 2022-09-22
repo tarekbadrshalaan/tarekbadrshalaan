@@ -24,10 +24,9 @@
 
 snake -->
 
-
-
-
+![snake gif](https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif)
 </p>
+
 
 ### My Skills and Interests:
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
