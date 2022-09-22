@@ -70,8 +70,8 @@ func doSomething(whatToDo string, rightORwrong bool) {
 
 <!-- Social media links -->
 ### Connect with me:
-[![Twitter handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/badges/master/svg/social/twitter.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
-[![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/badges/master/svg/social/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
-[![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/badges/master/svg/social/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
+[![Twitter handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/twitter.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
+[![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
+[![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/master/img/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
 
 
