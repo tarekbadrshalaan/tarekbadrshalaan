@@ -49,11 +49,7 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: |
-          for commit in $(git rev-list ${{ github.base_ref }}..${{ github.head_ref }}); do
-              git checkout $commit
-              echo "run test"
-          done
+      - run: git status
 
       # Push the changes
       - name: Push changes

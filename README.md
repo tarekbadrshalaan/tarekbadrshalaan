@@ -17,16 +17,17 @@
 - 📫 How to reach me: [twitter/tarekbadrsh](https://twitter.com/tarekbadrsh)
 - ⚡ Fun fact: I like to [dance bachata](https://www.youtube.com/watch?v=iQw5I85dkO8) 🕺💃
 
-<!-- contribution  snake --> 
-<!-- <p align="center">
-    <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif" />
-</p> -->
+<!-- contribution  snake -->  
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-snake-dark.svg" />
 </p>
 
 
 ### My Skills and Interests:
+ 
+<img alt="contribution snake" width="20%" src="https://www.codewars.com/users/tarekbadrshalaan/badges/large" url="https://www.codewars.com/users/tarekbadrshalaan" /> 
+ 
+
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,4 +66,3 @@ func doSomething(whatToDo string, rightORwrong bool) {
 [![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
 [![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
 
-<!-- test update  -->
