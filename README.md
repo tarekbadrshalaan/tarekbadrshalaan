@@ -25,8 +25,7 @@
 
 ### My Skills and Interests:
  
-<img alt="contribution snake" width="20%" src="https://www.codewars.com/users/tarekbadrshalaan/badges/large" url="https://www.codewars.com/users/tarekbadrshalaan" /> 
- 
+<img href="https://www.codewars.com/users/tarekbadrshalaan/" alt="Codewars" src="https://www.codewars.com/users/tarekbadrshalaan/badges/large" />
 
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
