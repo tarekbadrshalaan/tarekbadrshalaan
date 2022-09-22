@@ -22,7 +22,7 @@
     <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-contribution-grid-snake.gif" />
 </p> -->
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/output/github-snake-dark.svg%3Fpalette%3Dgithub-dark" />
+    <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-snake-dark.svg" />
 </p>
 
 
