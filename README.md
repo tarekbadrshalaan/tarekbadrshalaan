@@ -2,7 +2,7 @@
 
 <p align="center">
     
-<img alt="anime photo" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
+<img alt="welcome photo" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 <br/>
 </p>
 <!-- START -->
@@ -73,9 +73,10 @@ func doSomething(whatToDo string, rightORwrong bool) {
 
 <!-- Social media links -->
 ### Connect with me:
-[![Twitter handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/twitter.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
-[![My linkedin profile](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/linkedin.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
-[![My instagram handel: @tarekbadrsh](https://raw.githubusercontent.com/tarekbadrshalaan/tarekbadrshalaan/main/img/instagram.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
-
+[![Twitter handel: @tarekbadrsh](img/twitter2.svg "@tarekbadrsh")](https://twitter.com/tarekbadrsh)
+[![linkedin profile](img/linkedin2.svg "@tarekbadrsh")](https://linkedin.com/in/tarekbadrsh)
+[![instagram handel: @tarekbadrsh](img/instagram2.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
+[![facebook profile: @tarekbadrsh](img/facebook.svg "@tarekbadrsh")](https://www.facebook.com/tarekbadrsh)
+[![youtube channel: @tarekbadrsh](img/youtube2.svg "@tarekbadrsh")](https://www.youtube.com/tarekbadrsh)
 
 <sub>This page is inspired by ![anas-elgarhy](https://github.com/anas-elgarhy/anas-elgarhy "@anas-elgarhy")</sup>
