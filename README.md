@@ -19,7 +19,7 @@
 
 <!-- contribution  snake -->  
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-snake-dark.svg" />
+    <img alt="contribution snake" width="85%" src="https://github.com/tarekbadrshalaan/tarekbadrshalaan/blob/output/github-snake.svg" />
 </p>
 
 
