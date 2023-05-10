@@ -9,7 +9,8 @@
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tarekbadrshalaan&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-- 🔭 I’m currently working on finding new job
+
+- 🔭 I’m currently working as Car Maker at Polestar <img style="width: 30px;" alt="Polestar" src="https://listcarbrands.com/wp-content/uploads/2017/10/Logo-Polestar.png" /> <img style="width: 30px;" alt="Polestar" src="https://listcarbrands.com/wp-content/uploads/2017/10/Logo-Polestar.png" /> <img style="width: 30px;" alt="Polestar" src="https://listcarbrands.com/wp-content/uploads/2017/10/Logo-Polestar.png" />
 - 🌱 I’m currently reviewing software basics 
 - 👯 I’m looking to collaborate on [ipfs/kubo](https://github.com/ipfs/kubo)
 - 🤔 I’m looking for help with [modelgen](https://github.com/tarekbadrshalaan/modelgen) 
@@ -78,5 +79,3 @@ func doSomething(whatToDo string, rightORwrong bool) {
 [![instagram handel: @tarekbadrsh](img/instagram2.svg "@tarekbadrsh")](https://instagram.com/tarekbadrsh)
 [![facebook profile: @tarekbadrsh](img/facebook.svg "@tarekbadrsh")](https://www.facebook.com/tarekbadrsh)
 [![youtube channel: @tarekbadrsh](img/youtube2.svg "@tarekbadrsh")](https://www.youtube.com/tarekbadrsh)
-
-<sub>This page is inspired by ![anas-elgarhy](https://github.com/anas-elgarhy/anas-elgarhy "@anas-elgarhy")</sup>
