@@ -1,13 +1,12 @@
 name: dev
 
 on:
-  push:
-    branches: 
-      - '**'
-  pull_request:
-    branches: 
-      - '**'
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to checkout'  
+        required: true
+        default: 'main'  
 
 jobs:
   dev:
@@ -15,6 +14,8 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.inputs.branch }}
 
       - name: Run a one-line script
         run: echo I am a manual job
