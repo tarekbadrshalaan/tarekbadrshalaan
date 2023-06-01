@@ -1,0 +1,14 @@
+name: dev
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dev:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run a one-line script
+        run: echo I am a manual job
