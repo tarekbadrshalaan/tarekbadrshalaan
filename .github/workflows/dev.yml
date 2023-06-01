@@ -1,0 +1,21 @@
+name: dev
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to checkout'  
+        required: true
+        default: 'main'  
+
+jobs:
+  dev:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.inputs.branch }}
+
+      - name: Run a one-line script
+        run: echo I am a manual job
