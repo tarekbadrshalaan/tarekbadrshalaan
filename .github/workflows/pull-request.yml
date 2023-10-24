@@ -14,14 +14,14 @@ jobs:
 
   staging:
     runs-on: ubuntu-latest
-    if: ${{ contains(github.event.pull_request.labels.*.name, 'deploy-dev') && contains(github.event.pull_request.labels.*.name, 'deploy-staging')}}
+    if: ${{ contains(github.event.pull_request.labels.*.name, 'deploy-dev') && github.event.label.name == 'deploy-staging'}}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
   prod:
     runs-on: ubuntu-latest
-    if: ${{github.event.label.name == 'deploy-dev' && github.event.label.name == 'deploy-staging' && github.event.label.name == 'deploy-prod'  }}
+    if: ${{ contains(github.event.pull_request.labels.*.name, 'deploy-dev') && gcontains(github.event.pull_request.labels.*.name, 'deploy-staging') && github.event.label.name == 'deploy-prod'}}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
