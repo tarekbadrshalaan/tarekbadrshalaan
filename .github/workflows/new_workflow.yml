@@ -1,0 +1,20 @@
+name: new workflow
+
+on:
+  push:
+    branches:
+      - action-test
+
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run a one-line script
+        run: echo I'm the first workflow!
+
+
+        
