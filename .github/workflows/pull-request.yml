@@ -12,4 +12,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+  staging:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.label.name == 'deploy-staging' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+  prod:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.label.name == 'deploy-prod' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
 
